@@ -1,18 +1,18 @@
 {
-  "name": "Fang.",
-  "short_name": "Fang.",
+  "name": "Decan.",
+  "short_name": "Decan.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "./icons/Fang._logo_icon_192x192.PNG",
+      "src": "",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "./icons/Fang._logo_icon_512x512.PNG",
+      "src": "",
       "type": "image/png",
       "sizes": "512x512"
     }
