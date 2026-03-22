@@ -1,5 +1,5 @@
 // キャッシュ名にバージョンを含める（更新時に重要）
-const CACHE_NAME = '20260318 21:34';
+const CACHE_NAME = '20260322 10:00';
 const ASSETS = [
   '/',
   '/index.html',
