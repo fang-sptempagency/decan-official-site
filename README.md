@@ -1,5 +1,5 @@
 <picture>
-  <img alt="Decan." src="public/images/Decan._logo_black.svg">
+  <img alt="Decan." src="public/images/Decan._logo.svg">
 </picture>
 
 # ABOUT
