@@ -1,3 +1,7 @@
+<picture>
+  <img alt="Decan." src="public/images/Decan._logo_black.svg">
+</picture>
+
 # ABOUT
 一次創作サイト「Decan.」のソースコードです。
 
@@ -16,7 +20,7 @@ ver.X.Y.Z
 # TODO
 ## MUST
 - [ ] ロゴデザイン
-  - [ ] Decan.
+  - [x] Decan.
   - [ ] テディベアブレード
   - [ ] グライとオーガ
   - [ ] Junk Journey
